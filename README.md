@@ -7,3 +7,4 @@ I’m currently a third-year IT student seeking intern position in backend devel
 ## 🛠 Skills 
 API Design (FastAPI), System design (monolithic, microservice,..), Message Broker (RabbitMQ), Database/Cache (PostgreSQL, MySQL, MongoDB, Redis,...), Linux (Deploying, Shell Scripting), Cloud (AWS), C# (WPF), Flutter, Python, C++,...
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NguyenNhat4)](https://github.com/anuraghazra/github-readme-stats)
