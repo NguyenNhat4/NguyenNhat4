@@ -7,4 +7,19 @@ I’m currently a third-year IT student seeking intern position in backend devel
 ## 🛠 Skills 
 API Design (FastAPI), System design (monolithic, microservice,..), Message Broker (RabbitMQ), Database/Cache (PostgreSQL, MySQL, MongoDB, Redis,...), Linux (Deploying, Shell Scripting), Cloud (AWS), C# (WPF), Flutter, Python, C++,...
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NguyenNhat4)](https://github.com/anuraghazra/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=NguyenNhat4)
+
+
+### 📊 GitHub Stats
+
+| Trophy | Streak |
+|--------|--------|
+| [![trophy](https://github-profile-trophy.vercel.app/?username=NguyenNhat4&theme=nord&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy) | [![GitHub Streak](https://streak-stats.demolab.com?user=NguyenNhat4&theme=tokyonight)](https://git.io/streak-stats) |
+
+| Stats | Top Languages |
+|--------|--------|
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NguyenNhat4&show_icons=true&theme=github_dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenNhat4&layout=compact&theme=tokyonight&exclude_repo=auto_checkonline_messenger---publish,Tool-dkhp-2023,UIT_TCCT) |
+
+| Wakatime Stats |
+|---------------|
+| [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NguyenNhat4&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
