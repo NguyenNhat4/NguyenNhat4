@@ -9,7 +9,7 @@ API Design (FastAPI), System design (monolithic, microservice,..), Message Broke
 
 
 ### 📊 GitHub Stats
-[![GitHub Streak](https://github-readme-streak-statss-chi.vercel.app?user=NguyenNhat4&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-statss-chi.vercel.app?user=NguyenNhat4&theme=github-dark-blue)](https://git.io/streak-stats)
  | Stats | Top Languages |
 |--------|--------|
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NguyenNhat4&show_icons=true&theme=github_dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenNhat4&layout=compact&theme=tokyonight&exclude_repo=auto_checkonline_messenger---publish,Tool-dkhp-2023,UIT_TCCT) |
