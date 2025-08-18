@@ -1,6 +1,6 @@
 ## Hi I'm Nhat  👋
 
-I’m  currently a backend developer. 
+I’m  currently a software developer. 
 * I’m currently learning Backend development and Data engineering.
 *  I'm seeking a Front End developer (web/app) for collaboration since my expertise primarily focuses on API design. I have a lot of ideas brewing. If you're interested, please get in touch with me 😊
 
