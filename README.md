@@ -3,7 +3,7 @@
 I’m currently a software developer exploring AI development and backend engineering.  
 * I’m working on **AI products**: currently developing computer vision applications using **OpenCV (cv2)**, **Mediapipe (facial mesh)** to draw and calculate **facial feature metrics** for assessment.  
 * I’m also part of a **research team** exploring AI applications in **dentistry**.  
-* On the side, my team builds **chatbots** and **webapps** for non-technical users. I also create **Python automation tools** to simplify and streamline repetitive workflows for them.  
+* On the side, my team builds **chatbots** and **webapps** and support technical parts for non-technical users. I also create **Python automation tools** to simplify and streamline repetitive workflows for them.  
 * I’m seeking a **Front End developer (web/app)** for collaboration, since my expertise focuses on API and backend design.  
 
 ## 🛠 Skills
