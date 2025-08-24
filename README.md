@@ -1,25 +1,17 @@
 ## Hi I'm Nhat 👋
 
-I’m currently a software developer and AI enthusiast.  
-* I’m working on AI development using **OpenCV (cv2)** to draw and calculate facial feature metrics for assessment.  
-* I’m part of a research team exploring **AI applications in dentistry**.  
-* Alongside that, my team is building **chatbots and web apps** to support non-technical users as side projects.  
-* I’m also learning **Backend development** and **Data engineering**.  
-* I’m looking for a **Front End developer (web/app)** to collaborate with, since my main expertise is in API and backend design. If you're interested, feel free to connect 😊  
+I’m currently a software developer exploring AI development and backend engineering.  
+* 🔬 I’m working on **AI products**: currently developing computer vision applications using **OpenCV (cv2)**, **Mediapipe (facial mesh)** to draw and calculate **facial feature metrics** for assessment.  
+* 🦷 I’m also part of a **research team** exploring AI applications in **dentistry**.  
+* 🤖 On the side, my team builds **chatbots** and **webapps** for non-technical users. I also create **Python automation tools** to simplify and streamline repetitive workflows for them.  
+* 🌐 I’m seeking a **Front End developer (web/app)** for collaboration, since my expertise focuses on API and backend design.  
 
----
+## 🛠 Skills
+API Design (FastAPI), System Design (Monolithic, Microservices), Kafka, Airflow, Spark,  
+Database/Cache (PostgreSQL, MySQL, MongoDB, Redis), Linux (Deploying, Shell Scripting),  
+Cloud (AWS), C# (WPF, .Net), Flutter, Python, Java, C/C++, HTML, CSS, JavaScript  
 
-## 🛠 Skills  
-- **Backend & API:** FastAPI, System Design (monolithic, microservice)  
-- **Data & Processing:** Kafka, Airflow, Spark  
-- **Databases & Cache:** PostgreSQL, MySQL, MongoDB, Redis  
-- **Cloud & DevOps:** AWS, Linux (Deploying, Shell Scripting)  
-- **Languages & Frameworks:** Python, Java, C/C++, C# (.NET, WPF), Flutter, HTML, CSS  
-- **AI/ML & Tools:** OpenCV, AI application research in healthcare  
-
----
-
-### 📊 GitHub Stats  
+## 📊 GitHub Stats
 [![GitHub Streak](https://github-readme-streak-statss-chi.vercel.app?user=NguyenNhat4&theme=github-dark-blue)](https://git.io/streak-stats)  
 
 | Stats | Top Languages |
