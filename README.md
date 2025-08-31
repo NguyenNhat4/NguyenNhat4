@@ -5,10 +5,10 @@ I’m currently a software developer exploring AI development and backend engine
 * On the side, my team builds chatbots and webapps, and we support technical parts for non-technical users (mainly medical professionals such as dentistry students and professors). I also create Python automation tools to simplify and streamline repetitive workflows for them.  
 * I’m seeking a Front End developer (web/app) for collaboration, since my expertise focuses on API and backend design.  
 
-## 🛠 Skills
+## 🛠 Skills/Tools
 API Design (FastAPI), System Design (Monolithic, Microservices), Kafka, Airflow, Spark,  
 Database/Cache (PostgreSQL, MySQL, MongoDB, Redis), Linux (Deploying, Shell Scripting),  
-Cloud (AWS), C# (WPF, .Net), Flutter, Python, Java, C/C++, HTML, CSS, JavaScript  
+Cloud (AWS), C# (WPF, .Net), Flutter, Python, Java, C/C++, HTML, CSS, JavaScript, Assembly, ...  
 
 ## 📊 GitHub Stats
 [![GitHub Streak](https://github-readme-streak-statss-chi.vercel.app?user=NguyenNhat4&theme=github-dark-blue)](https://git.io/streak-stats)  
