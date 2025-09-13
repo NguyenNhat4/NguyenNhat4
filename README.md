@@ -3,7 +3,6 @@ I’m currently a software developer exploring AI development and backend engine
 * I’m working on AI products: currently developing computer vision applications using OpenCV (cv2), Mediapipe (facial mesh) to draw and calculate facial feature metrics for assessment.  
 * I’m part of a research team exploring AI applications in dentistry.  
 * On the side, my team builds chatbots and webapps, and we support technical parts for non-technical users (mainly medical professionals such as dentistry students and professors). I also create Python automation tools to simplify and streamline repetitive workflows for them.  
-* I’m seeking a Front End developer (web/app) for collaboration, since my expertise focuses on API and backend design.  
 
 ## 🛠 Skills/Tools
 API Design (FastAPI), System Design (Monolithic, Microservices), Kafka, Airflow, Spark,  
