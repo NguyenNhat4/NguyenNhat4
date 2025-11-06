@@ -1,6 +1,5 @@
 ## Hi I'm Nhat 👋
-* I’m working on AI products: currently developing computer vision applications using OpenCV (cv2), Mediapipe (facial mesh) to draw and calculate facial feature metrics for assessment.  
-* I’m part of a research team exploring AI applications in dentistry.  
+* I’m working on software/AI products. 
 * On the side, my team builds chatbots and webapps, and we support technical parts for non-technical users (mainly medical professionals such as dentistry students and professors). I also create Python automation tools to simplify and streamline repetitive workflows for them.  
 
 ## 🛠 Skills/Tools
