@@ -1,4 +1,4 @@
-## Hi I'm Nhat 👋
+## Hi I'm Nhat, an aspiring programmer 👋
 Currently:
 * I’m working on software/AI products. 
 * On the side, my team builds chatbots and webapps, and we support technical parts for non-technical users (mainly medical professionals such as dentistry students and professors). I also create Python automation tools to simplify and streamline repetitive workflows for them.  
