@@ -1,8 +1,7 @@
 ## Hi I'm Nhat, an aspiring programmer 👋
 Currently:
-* I’m working on AI software products. 
-* On the side, my team builds chatbots and webapps. I also create Python automation tools to simplify and streamline repetitive workflows for them.  
-
+* I’m working on AI software products, chatbot/ Multiagent system.
+  
 ## 🛠 Skills/Tools
 API Design (FastAPI), System Design (Monolithic, Microservices), Kafka, Airflow, Spark,  
 Database/Cache (PostgreSQL, MySQL, MongoDB, Redis), Linux (Deploying, Shell Scripting),  
