@@ -1,6 +1,6 @@
 ## Hi I'm Nhat, an aspiring programmer 👋
 Currently:
-* I’m working on AI software products, chatbot/ Multiagent system.
+* I’m working on AI software products, chatbot/ Multiagent systems.
   
 ## 🛠 Skills/Tools
 API Design (FastAPI), System Design (Monolithic, Microservices), Kafka, Airflow, Spark,  
