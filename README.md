@@ -3,7 +3,7 @@ Currently:
 * I’m working on AI software products, chatbot/ Multiagent systems.
   
 ## 🛠 Skills/Tools
-API Design (FastAPI), System Design (Monolithic, Microservices), Kafka, Airflow, Spark,  
+API Design (FastAPI), System Design (Monolithic, Microservices), Pytorch, Scikit-learn,  
 Database/Cache (PostgreSQL, MySQL, MongoDB, Redis), Linux (Deploying, Shell Scripting),  
 Cloud (AWS), C# (WPF, .Net), Flutter, Python, Java, C/C++, HTML, CSS, JavaScript, Assembly, ...  
 
