@@ -1,7 +1,7 @@
 ## Hi I'm Nhat, an aspiring programmer 👋
 Currently:
 * I’m working on AI software products, chatbot/ Multiagent systems.
-* I love builing agentic application/tools and have had built some agentic projects/tools to solve my own problems and others. 
+* I love builing agentic application/tools and have had built some to solve my own problems and others. 
   
 ## 🛠 Skills/Tools
 API Design (FastAPI), System Design (Monolithic, Microservices), Pytorch, Scikit-learn,  
