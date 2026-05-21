@@ -1,5 +1,4 @@
 ## Hi I'm Nhat 👋
 Currently:
-* I’m working on AI software products, chatbot/ Multiagent systems.
-
+* I’m working on AI products, chatbots.
   
