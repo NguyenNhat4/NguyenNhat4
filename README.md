@@ -4,5 +4,5 @@ About me:
 * I am really excited to work anything useful to others.
   
 Currently:
-* I am building things that solve my own problems, potentially helpful for other too.    
+* I am building things that solve my own problems, potentially helpful for others too.    
   
